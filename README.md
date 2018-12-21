@@ -7,7 +7,7 @@ This GitHub repository will manage bugs and requests for improvements.
 If you like **Homy**, give it a star, or contribute!
 
 [![GitHub stars](https://img.shields.io/github/stars/projetsdiy/homy-home-automation-mobile-app.svg?style=social&label=Star)](https://github.com/projetsdiy/homy-home-automation-mobile-app)
-[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/projetsdiy)
+[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](paypal.me/ProjetsDIYFR)
 
 **Homy is under development, operation is not guaranteed yet**
 
@@ -62,7 +62,7 @@ You can contribute to Homy project by
 - Donating to acquire hardware for testing or send sample for implementing
 - Donate
 
-[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/projetsdiy)
+[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](paypal.me/ProjetsDIYFR)
 
 # Homy - version bêta
 Homy est une application mobile pour iOS et Android qui permet de piloter et recevoir des données en provenance d'un (ou plusieurs) serveur domotique Open Source ou d'objects connectés développés à base d'Arduino, ESP32, ESP8266.
@@ -73,7 +73,7 @@ Ce dépôt GitHub permettra de gérer les bugs et les demandes d'améliorations.
 Si vous aimez **Homy** attribuez une étoile ou contribuez au développement
 
 [![GitHub stars](https://img.shields.io/github/stars/projetsdiy/homy-home-automation-mobile-app.svg?style=social&label=Star)](https://github.com/projetsdiy/homy-home-automation-mobile-app)
-[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/projetsdiy)
+[![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](paypal.me/ProjetsDIYFR)
 
 **Homy est en cours de développement, le fonctionnement n'est pas encore garanti**
 
@@ -127,7 +127,7 @@ Vous pouvez contribuer au projet Homy en
 - Faire un don pour acquérir du matériel ou envoyer du matériel
 - Faire un don
 
-[![Faire un don](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/projetsdiy)
+[![Faire un don](https://img.shields.io/badge/donate-PayPal-blue.svg)](paypal.me/ProjetsDIYFR)
 
 # Acknowledgment / Remerciements
 - [Domoticz team and contributors](https://github.com/domoticz/domoticz)
